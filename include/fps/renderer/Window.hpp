@@ -22,7 +22,7 @@ namespace fps
 
     int32_t m_windowWidth  { 1280 };
     int32_t m_windowHeight { 800 };
-    std::string m_windowTitle { "Call of mgl" };
+    std::string m_windowTitle { "JSP" };
 
   public:
     Window();
